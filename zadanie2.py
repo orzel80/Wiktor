@@ -11,4 +11,7 @@ Napisać program konwertujący jednostki:
 Napisać program wyliczający obwód i polę koła na podstawie promienia
 
 Słowniki, pliki, funkcje
+
+Program palindrom
+
 """
